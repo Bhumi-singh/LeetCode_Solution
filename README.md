@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0450-delete-node-in-a-bst) |
 ## Hash Table
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0414-third-maximum-number) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
