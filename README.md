@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0061-rotate-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
