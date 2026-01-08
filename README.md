@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
 ## Queue
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 ## Design
 |  |
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0061-rotate-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
