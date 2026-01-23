@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [1143-longest-common-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1143-longest-common-subsequence) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0322-coin-change) |
@@ -161,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
