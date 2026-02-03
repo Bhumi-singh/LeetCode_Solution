@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0322-coin-change) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0414-third-maximum-number) |
 ## Stack
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
