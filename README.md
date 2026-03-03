@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0044-wildcard-matching) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
