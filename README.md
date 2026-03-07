@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0061-rotate-list) |
 ## Merge Sort
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 ## Database
