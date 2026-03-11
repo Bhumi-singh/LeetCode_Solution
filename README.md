@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0064-minimum-path-sum) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0494-target-sum) |
 ## Breadth-First Search
