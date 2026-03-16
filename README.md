@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [1143-longest-common-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1143-longest-common-subsequence) |
 ## Design
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0494-target-sum) |
