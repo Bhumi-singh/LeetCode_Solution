@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0089-gray-code) |
 | [0367-valid-perfect-square](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 ## Queue
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0089-gray-code) |
+| [0371-sum-of-two-integers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
 | ------- |
