@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1757-recyclable-and-low-fat-products) |
 ## String Matching
 |  |
 | ------- |
