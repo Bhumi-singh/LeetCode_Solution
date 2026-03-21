@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 ## String
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [1143-longest-common-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1143-longest-common-subsequence) |
 ## Design
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 ## Sorting
 |  |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0338-counting-bits) |
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
