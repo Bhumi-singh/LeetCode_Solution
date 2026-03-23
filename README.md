@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0572-subtree-of-another-tree) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0617-merge-two-binary-trees) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0733-flood-fill) |
 ## Dynamic Programming
 |  |
@@ -333,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0572-subtree-of-another-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
