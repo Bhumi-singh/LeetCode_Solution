@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0217-contains-duplicate) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0091-decode-ways) |
+| [0119-pascals-triangle-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0322-coin-change) |
