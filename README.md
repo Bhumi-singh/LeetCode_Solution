@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0168-excel-sheet-column-title) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
