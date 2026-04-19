@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0832-flipping-an-image](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -247,10 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0371-sum-of-two-integers) |
+| [0832-flipping-an-image](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0832-flipping-an-image) |
 ## Backtracking
 |  |
 | ------- |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
