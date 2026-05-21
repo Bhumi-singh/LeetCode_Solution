@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0089-gray-code) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0058-length-of-last-word) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0832-flipping-an-image) |
 ## Backtracking
