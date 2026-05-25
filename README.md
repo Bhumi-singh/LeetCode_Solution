@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0518-coin-change-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
