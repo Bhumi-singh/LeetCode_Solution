@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0367-valid-perfect-square) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
