@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0064-minimum-path-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0190-reverse-bits) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
