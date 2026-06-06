@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0089-gray-code) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0091-decode-ways) |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0258-add-digits) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
