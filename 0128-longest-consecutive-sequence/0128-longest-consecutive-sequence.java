@@ -25,31 +25,49 @@ class Solution {
         int n = nums.length;
         if (n == 0) return 0;
 
-        HashSet<Integer> set = new HashSet<>();
+        // HashSet<Integer> set = new HashSet<>();
 
-        for (int num : nums) {
-            set.add(num);
-        }
+        // for (int num : nums) {
+        //     set.add(num);
+        // }
 
-        int longest = 0;
+        // int longest = 0;
 
-        for (int num : set) {
+        // for (int num : set) {
 
-            // Start of a sequence
-            if (!set.contains(num - 1)) {
+            
+        //     if (!set.contains(num - 1)) {
 
-                int currEle = num;
-                int count = 1;
+        //         int currEle = num;
+        //         int count = 1;
 
-                while (set.contains(currEle + 1)) {
-                    currEle++;
-                    count++;
-                }
+        //         while (set.contains(currEle + 1)) {
+        //             currEle++;
+        //             count++;
+        //         }
 
-                longest = Math.max(longest, count);
+        //         longest = Math.max(longest, count);
+        //     }
+        // }
+
+        // return longest;
+
+        Arrays.sort(nums);
+        int lastsmall=Integer.MIN_VALUE;
+        int cnt=0;
+        int longest=0;
+
+        for(int i=0;i<n;i++){
+            if(nums[i]-1==lastsmall){
+                cnt++;
+                lastsmall=nums[i];
             }
+            else if(nums[i]!=lastsmall){
+                cnt=1;
+                lastsmall=nums[i];
+            }
+            longest=Math.max(longest,cnt);
         }
-
         return longest;
     }
 }
