@@ -22,9 +22,11 @@ class Solution {
     //     return false;
     //  }
     public int longestConsecutive(int[] nums) {
-        if (nums.length == 0) return 0;
+        int n = nums.length;
+        if (n == 0) return 0;
 
         HashSet<Integer> set = new HashSet<>();
+
         for (int num : nums) {
             set.add(num);
         }
@@ -32,13 +34,15 @@ class Solution {
         int longest = 0;
 
         for (int num : set) {
-            // only start from the beginning of a sequence
+
+            // Start of a sequence
             if (!set.contains(num - 1)) {
-                int currentNum = num;
+
+                int currEle = num;
                 int count = 1;
 
-                while (set.contains(currentNum + 1)) {
-                    currentNum++;
+                while (set.contains(currEle + 1)) {
+                    currEle++;
                     count++;
                 }
 
