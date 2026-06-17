@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0191-number-of-1-bits) |
+| [1382-balance-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1382-balance-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -405,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0455-assign-cookies) |
+| [1382-balance-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
