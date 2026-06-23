@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Queue
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Trie
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0414-third-maximum-number) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0455-assign-cookies) |
@@ -551,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
