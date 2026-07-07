@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
