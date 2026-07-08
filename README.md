@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0441-arranging-coins) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1137-n-th-tribonacci-number) |
 ## Queue
