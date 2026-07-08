@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1137-n-th-tribonacci-number) |
 ## Queue
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0415-add-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0832-flipping-an-image) |
 ## Backtracking
 |  |
