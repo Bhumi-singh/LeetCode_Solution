@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0541-reverse-string-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0541-reverse-string-ii) |
 | [1143-longest-common-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
 ## Design
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0541-reverse-string-ii) |
 | [0832-flipping-an-image](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
