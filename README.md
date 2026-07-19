@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
 |  |
 | ------- |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
