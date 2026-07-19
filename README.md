@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0832-flipping-an-image) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2094-finding-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0455-assign-cookies) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2094-finding-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2094-finding-3-digit-even-numbers) |
 ## Database
 |  |
 | ------- |
@@ -620,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0292-nim-game) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
