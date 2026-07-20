@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0292-nim-game) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0344-reverse-string) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
