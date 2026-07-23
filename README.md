@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
