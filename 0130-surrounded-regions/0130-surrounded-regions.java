@@ -1,7 +1,7 @@
 class Solution {
     int n,m;
     public void solve(char[][] board) {
-        if(board.length==0 || board==null) return;
+        if(board==null || board.length==0) return;
         m=board.length;
         n=board[0].length;
         for(int i=0;i<m;i++){
