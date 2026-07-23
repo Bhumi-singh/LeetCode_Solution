@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0766-toeplitz-matrix) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -654,5 +658,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
