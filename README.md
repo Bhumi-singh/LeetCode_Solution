@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0189-rotate-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0189-rotate-array) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -672,4 +675,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2487-remove-nodes-from-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
