@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0189-rotate-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0101-symmetric-tree) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0101-symmetric-tree) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
