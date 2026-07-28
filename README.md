@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1137-n-th-tribonacci-number) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0504-base-7](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0541-reverse-string-ii) |
 | [1143-longest-common-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
