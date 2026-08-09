@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0733-flood-fill) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
