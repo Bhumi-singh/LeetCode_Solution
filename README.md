@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0138-copy-list-with-random-pointer) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0171-excel-sheet-column-number) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0200-number-of-islands) |
@@ -754,4 +757,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1071-greatest-common-divisor-of-strings) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
