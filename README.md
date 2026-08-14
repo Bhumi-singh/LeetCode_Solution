@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0523-continuous-subarray-sum) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1137-n-th-tribonacci-number) |
 ## Queue
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0997-find-the-town-judge](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1207-unique-number-of-occurrences) |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0724-find-pivot-index) |
 ## Euclidean Algorithm
 |  |
@@ -773,4 +777,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0127-word-ladder) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
