@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0168-excel-sheet-column-title) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
