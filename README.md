@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0292-nim-game) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0415-add-strings) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0494-target-sum) |
