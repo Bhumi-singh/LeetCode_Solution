@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0494-target-sum) |
+| [0506-relative-ranks](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0566-reshape-the-matrix) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0506-relative-ranks) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Queue
 |  |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2094-finding-3-digit-even-numbers) |
 ## Stack
