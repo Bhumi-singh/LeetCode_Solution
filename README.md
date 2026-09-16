@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0733-flood-fill) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0441-arranging-coins) |
+| [0713-subarray-product-less-than-k](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Divide and Conquer
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0523-continuous-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0724-find-pivot-index) |
 ## Euclidean Algorithm
 |  |
