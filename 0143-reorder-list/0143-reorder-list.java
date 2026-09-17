@@ -10,35 +10,32 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-            if(head==null||head.next==null) return;
-            
-            //Find the middle of the list
-            ListNode p1=head;
-            ListNode p2=head;
-            while(p2.next!=null&&p2.next.next!=null){ 
-                p1=p1.next;
-                p2=p2.next.next;
-            }
-            
-            //Reverse the half after middle  1->2->3->4->5->6 to 1->2->3->6->5->4
-            ListNode preMiddle=p1;
-            ListNode preCurrent=p1.next;
-            while(preCurrent.next!=null){
-                ListNode current=preCurrent.next;
-                preCurrent.next=current.next;
-                current.next=preMiddle.next;
-                preMiddle.next=current;
-            }
-            
-            //Start reorder one by one  1->2->3->6->5->4 to 1->6->2->5->3->4
-            p1=head;
-            p2=preMiddle.next;
-            while(p1!=preMiddle){
-                preMiddle.next=p2.next;
-                p2.next=p1.next;
-                p1.next=p2;
-                p1=p2.next;
-                p2=preMiddle.next;
-            }
+        if(head==null && head.next==null) return;
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast.next!=null && fast.next.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        ListNode second=slow.next;
+        slow.next=null;
+        ListNode prev=null;
+        while(second!=null){
+            ListNode next=second.next;
+            second.next=prev;
+            prev=second;
+            second=next;
+        }
+
+        ListNode first=head;
+        second=prev;
+        while(second!=null){
+            ListNode n1=first.next;
+            ListNode n2=second.next;
+            first.next=second;
+            second.next=n1;
+            first=n1;
+            second=n2;
+        }
     }
 }
