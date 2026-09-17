@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0324-wiggle-sort-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0371-sum-of-two-integers) |
 | [0832-flipping-an-image](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0832-flipping-an-image) |
@@ -820,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0523-continuous-subarray-sum) |
 ## Quicksort
 |  |
@@ -829,4 +834,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0075-sort-colors) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
