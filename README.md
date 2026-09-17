@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0566-reshape-the-matrix) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0713-subarray-product-less-than-k) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0506-relative-ranks) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0541-reverse-string-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0832-flipping-an-image](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Recursion
@@ -774,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0085-maximal-rectangle) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bhumi-singh/LeetCode_Solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Geometry
 |  |
